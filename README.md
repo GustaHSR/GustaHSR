@@ -18,7 +18,7 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 4º período da PUC G
 - [LinkedIn](https://www.linkedin.com/in/gustahsr)
 - [E-mail](gustavohsr.pro@gmail.com)
 
-## 🌐 Portfolio (opcional)
+## 🌐 Portfolio
 
 - [Curriculo](https://gustahsr.github.io/)
 
