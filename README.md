@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! 👋 Sou um estudante de Ciência da Computação no 4º período da PUC Goiás, apaixonado pelo mundo da tecnologia e desenvolvimento de software. Estou em busca de oportunidades de estágio que me permitam aplicar e aprimorar meus conhecimentos em programação, com foco em desenvolvimento web, seja na área de frontend, backend ou como desenvolvedor fullstack.
+Olá! 👋 Sou um estudante de Ciência da Computação no 4º período da PUC Goiás, apaixonado pelo mundo da tecnologia e desenvolvimento de software. Estou em busca de oportunidades de estágio que me permitam aplicar e aprimorar meus conhecimentos em programação.
 
 ## 🚀 Habilidades
 
@@ -20,6 +20,6 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 4º período da PUC G
 
 ## 🌐 Portfolio (opcional)
 
-- [Curriculo](gustahsr.github.io)
+- [Curriculo](https://gustahsr.github.io/)
 
 Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você procura alguém com paixão pela programação e um compromisso sólido com o sucesso da equipe, estou pronto para embarcar em novos desafios. Vamos construir coisas incríveis juntos! 😄
