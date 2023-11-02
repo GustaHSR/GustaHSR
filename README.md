@@ -12,6 +12,7 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 4º período da PUC G
 ## 📚 Educação
 
 - Graduação em Ciência da Computação na PUC Goiás (4º período)
+- Inglês avançado
 
 ## 📧 Entre em Contato
 
