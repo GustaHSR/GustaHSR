@@ -6,7 +6,7 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 5º período da PUC G
 
 - Linguagens de Programação: C++, Ruby, Python, C#
 - Desenvolvimento Web: HTML, CSS, TailWind CSS , JavaScript
-- Banco de Dados: SQL
+- Banco de Dados: PostgreSQL
 - Ferramentas de Controle de Versão: Git, GitHub
 
 ## 📚 Educação
