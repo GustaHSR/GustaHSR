@@ -17,11 +17,7 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 5º período da PUC G
 ## 📧 Entre em Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gustahsr)
-- [E-mail](gustavohsr.pro@gmail.com)
+- [E-mail](gustavohsr.dev@gmail.com)
 - [Telefone]((62)99468-1302)
-
-## 🌐 Portfolio
-
-- [Curriculo](https://gustahsr.github.io/)
 
 Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você procura alguém com paixão pela programação e um compromisso sólido com o sucesso da equipe, estou pronto para embarcar em novos desafios. Vamos construir coisas incríveis juntos! 😄
