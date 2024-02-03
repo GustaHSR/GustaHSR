@@ -5,7 +5,7 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 5º período da PUC G
 ## 🚀 Habilidades
 
 - Linguagens de Programação: C++, Ruby, Python, C#
-- Desenvolvimento Web: HTML, CSS, TailWind CSS , JavaScript
+- Desenvolvimento Web: HTML, CSS, TailWind CSS , JavaScript, ReactJS, NodeJS
 - Banco de Dados: PostgreSQL
 - Ferramentas de Controle de Versão: Git, GitHub
 
