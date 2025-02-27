@@ -1,17 +1,18 @@
 # Sobre Mim
 
-Olá! 👋 Sou um estudante de Ciência da Computação no 5º período da PUC Goiás, apaixonado pelo mundo da tecnologia e desenvolvimento de software. Estou em busca de oportunidades de estágio que me permitam aplicar e aprimorar meus conhecimentos em programação.
+Olá! Sou um estudante dedicado, atualmente cursando o 7º período de Ciência da Computação na PUC Goiás, apaixonado pelo mundo da tecnologia e pelo desenvolvimento de software. Atualmente já estou estagiando em desenvolvimento e estou em busca de aprimorar meus conhecimentos na área de tecnologia.
 
 ## 🚀 Habilidades
 
-- Linguagens de Programação: C++, Ruby, Python, C#
-- Desenvolvimento Web: HTML, CSS, TailWind CSS , JavaScript, ReactJS, NodeJS
-- Banco de Dados: PostgreSQL
-- Ferramentas de Controle de Versão: Git, GitHub
+- Linguagens de Programação: C++, Python, C#
+- Desenvolvimento Web: HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS
+- Banco de Dados: PostgreSQL, SQL
+- Ferramentas de Controle de Versão: Git, GitHub, GitLab
+- Serviços conhecidos e utilizados: Airflow, Grafana, E-bots
 
 ## 📚 Educação
 
-- Graduação em Ciência da Computação na PUC Goiás (5º período)
+- Graduação em Ciência da Computação na PUC Goiás (7º período)
 - Inglês avançado
 
 ## 📧 Entre em Contato
@@ -20,4 +21,3 @@ Olá! 👋 Sou um estudante de Ciência da Computação no 5º período da PUC G
 - [E-mail](gustavohsr.dev@gmail.com)
 - [Telefone]((62)99468-1302)
 
-Estou sempre aberto a oportunidades de aprendizado e colaboração. Se você procura alguém com paixão pela programação e um compromisso sólido com o sucesso da equipe, estou pronto para embarcar em novos desafios. Vamos construir coisas incríveis juntos! 😄
