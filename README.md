@@ -1,4 +1,4 @@
-# Sobre Mim
+  # Sobre Mim
 
 Olá! Sou um estudante dedicado, atualmente cursando o 7º período de Ciência da Computação na PUC Goiás, apaixonado pelo mundo da tecnologia e pelo desenvolvimento de software. Atualmente já estou estagiando em desenvolvimento e estou em busca de aprimorar meus conhecimentos na área de tecnologia.
 
@@ -6,8 +6,8 @@ Olá! Sou um estudante dedicado, atualmente cursando o 7º período de Ciência 
 
 - Linguagens de Programação: C++, Python, C#
 - Desenvolvimento Web: HTML, CSS, JavaScript, ReactJS, NodeJS, NextJS
-- Banco de Dados: PostgreSQL, SQL
-- Ferramentas de Controle de Versão: Git, GitHub, GitLab
+- Banco de Dados: PostgreSQL, MySQL, SQL Server
+- Ferramentas de Controle de Versão: GitHub, GitLab
 - Serviços conhecidos e utilizados: Airflow, Grafana, E-bots
 
 ## 📚 Educação
